@@ -546,3 +546,9 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52282.m3u8
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52281.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 04 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 04 FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Night of the Living Dead (1968)" tvg-logo="" group-title="Movies",Night of the Living Dead (1968)
+https://archive.org/download/NightOfTheLivingDead/NightOfTheLivingDead_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Phantom of the Opera (1925)" tvg-logo="" group-title="Movies",The Phantom of the Opera (1925)
+https://archive.org/download/ThePhantomOfTheOpera1925/ThePhantomOfTheOpera1925_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock Holmes and the Secret Weapon (1943)" tvg-logo="" group-title="Movies",Sherlock Holmes and the Secret Weapon (1943)
+https://archive.org/download/SherlockHolmesAndTheSecretWeapon/SherlockHolmesAndTheSecretWeapon_512kb.mp4
